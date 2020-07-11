@@ -45,8 +45,7 @@ assert true || false
         result = 'Not found'
     }
     
-    String s = ""
-    result = ( s != null && s.length() > 0 ) ? 'Found' : 'Not Found'
+    result = ( s2 != null && s2.length() > 0 ) ? 'Found' : 'Not Found'
 
     // Elvis Operator
     displayName = user.name ? user.name : 'Anonymous'   
