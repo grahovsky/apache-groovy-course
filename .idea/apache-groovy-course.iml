@@ -6,6 +6,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="groovy-3.0.4" level="application" />
-    <orderEntry type="library" name="extras-jaxb" level="project" />
+    <orderEntry type="library" name="extras-jaxb" level="application" />
   </component>
 </module>
