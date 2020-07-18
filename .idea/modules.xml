@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/apache-groovy-course.iml" filepath="$PROJECT_DIR$/.idea/apache-groovy-course.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics/basics.iml" filepath="$PROJECT_DIR$/basics/basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/getting-started/getting-started.iml" filepath="$PROJECT_DIR$/getting-started/getting-started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/oop/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/getting-started/intellij_HelloWorld/intellij_HelloWorld.iml" filepath="$PROJECT_DIR$/getting-started/intellij_HelloWorld/intellij_HelloWorld.iml" />
     </modules>
   </component>
