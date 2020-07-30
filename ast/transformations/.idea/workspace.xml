@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7258b440-da83-4db9-8d05-97424d8e5d89" name="Default" comment="" />
+    <list default="true" id="7258b440-da83-4db9-8d05-97424d8e5d89" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +20,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="y" value="25" />
-    <option name="width" value="1898" />
-    <option name="height" value="1001" />
   </component>
   <component name="ProjectId" id="1fON4OhvIw4AUGQOOUKOkkCzKRx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
