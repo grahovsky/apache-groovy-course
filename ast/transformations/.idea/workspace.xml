@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7258b440-da83-4db9-8d05-97424d8e5d89" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Developer.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/default.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/canonical/Person.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/canonical/app.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clone/Person.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clone/clonedemo.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compile/SomeClass.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equals/Person.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equals/app.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/immutable/Person.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/immutable/app.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/DatabaseConnection.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/app.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorted/Person.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorted/app.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tostring/Person.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tostring/app.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuple/Person.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuple/app.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typechecked/Person.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typechecked/app.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transformations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +11,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="transformations" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -87,7 +55,7 @@
       <recent name="equals" />
     </key>
   </component>
-  <component name="RunManager" selected="Groovy.clonedemo">
+  <component name="RunManager" selected="Groovy.app (2)">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -379,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app (5)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="app (2)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="transformations" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/sorted/app.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/tostring/app.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/sorted" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/tostring" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -483,19 +451,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Groovy.app (1)" />
-      <item itemvalue="Groovy.app (5)" />
       <item itemvalue="Groovy.app" />
-      <item itemvalue="Groovy.clonedemo" />
+      <item itemvalue="Groovy.app (1)" />
       <item itemvalue="Groovy.default" />
+      <item itemvalue="Groovy.clonedemo" />
+      <item itemvalue="Groovy.app (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Groovy.app (2)" />
+        <item itemvalue="Groovy.app" />
         <item itemvalue="Groovy.clonedemo" />
         <item itemvalue="Groovy.default" />
         <item itemvalue="Groovy.app (1)" />
-        <item itemvalue="Groovy.app" />
-        <item itemvalue="Groovy.app (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -529,10 +497,30 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="728" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1596085378267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596085378267" />
     <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1596085013771">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596085013771" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1596085320649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596085320649" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1596085320648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596085320648" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1596085320648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596085320648" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1596085320648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596085320648" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1596085015064">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
