@@ -1,9 +1,0 @@
-Customizing the MOP with hooks
-
-- GroovyObject
-    - Employee.groovy
-- invokeMethod()
-- get property
-- property missing
-- set property
-- method missing
