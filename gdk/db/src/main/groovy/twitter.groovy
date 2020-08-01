@@ -31,11 +31,19 @@ sql.execute """
 """
 
 
-List<GroovyRowResult> rows = sql.rows("select * from users")
-println rows
+//List<GroovyRowResult> rows = sql.rows("select * from users")
+//println rows
+
+//sql.eachRow('select * from users') { row ->
+//    println "Tweet: @${row.username}"
+//}
+
+// create a new fileto hold our users in and put in the header values
+def file = new File('twitter.csv')
+file.write("id,usernsame,bio\n")
 
 sql.eachRow('select * from users') { row ->
-    println "Tweet: @${row.username}"
+    file.append("${row.id},${row.username},${row.bio}\n")
 }
 
 
